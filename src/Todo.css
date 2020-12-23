@@ -1,0 +1,12 @@
+.Todo {
+    border: 2px solid black;
+    text-align: center;
+    background: cornflowerblue;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.Done {
+    background: lightsteelblue;
+}
